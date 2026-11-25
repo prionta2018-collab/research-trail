@@ -1,4 +1,4 @@
-# Research Compass
+# Research Trail
 
 A free, student-friendly guide to academic research and scientific publishing.
 
