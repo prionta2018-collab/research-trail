@@ -22,7 +22,7 @@ A free, student-friendly guide to academic research and scientific publishing.
 
 ## Website
 
-Visit: https://prionta2018-collab.github.io/research-compass/
+Visit: https://prionta2018-collab.github.io/research-trail/
 
 ## License
 
